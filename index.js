@@ -23,6 +23,20 @@ const client = new MongoClient(uri, {
 
 async function run() {
     try {
+        const classesCollection = client.db("powerGym").collection("classes");
+        const pricingCollection = client.db("powerGym").collection("pricing");
+
+        app.get('/classes', async (req, res) => {
+            const query = {};
+            const classes = await classesCollection.find(query).toArray();
+            res.send(classes);
+        });
+
+        app.get('/pricing', async (req, res) => {
+            const query = {};
+            const pricing = await pricingCollection.find(query).toArray();
+            res.send(pricing);
+        });
 
     } finally {
 
@@ -32,9 +46,9 @@ run().catch(console.dir);
 
 
 app.get('/', (req, res) => {
-    res.send('Hello power x-gym server running!!')
+    res.send('Hello power x-gym server running!!');
 })
 
 app.listen(port, () => {
-    console.log(`Power x-gym app listening on port ${port}`)
+    console.log(`Power x-gym app listening on port ${port}`);
 })
