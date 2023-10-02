@@ -1,0 +1,44 @@
+[
+    {
+        " _id": 1,
+        "image": "https://i.postimg.cc/d0d61Rtm/progression-bg.jpg",
+        "title": "Billed Monthly",
+        "name": "Advance Plan",
+        "price": 140,
+        "planing": [
+            "Mobile Optimized",
+            "Best Hosting",
+            "Free Custom",
+            "Outstanding",
+            "Happy Customers"
+        ]
+    },
+    {
+        "_id": 2,
+        "image": "https://i.postimg.cc/NFPmbLjj/beginner-bg.jpg",
+        "title": "Billed Monthly",
+        "name": "Beginner Plan",
+        "price": 120,
+        "planing": [
+            "Mobile Optimized",
+            "Best Hosting",
+            "Free Custom",
+            "Outstanding",
+            "Happy Customers"
+        ]
+    },
+    {
+        "_id": 3,
+        "image": "https://i.postimg.cc/ZRbNS69q/nutrition-bg.jpg",
+        "title": "Billed Monthly",
+        "name": "Basic Plan",
+        "price": 100,
+        "planing": [
+            "Mobile Optimized",
+            "Best Hosting",
+            "Free Custom",
+            "Outstanding",
+            "Happy Customers"
+        ]
+    }
+]

@@ -1,0 +1,242 @@
+[
+    {
+        "_id": 1,
+        "image": "https://i.postimg.cc/RVYk7D5P/self-defense.png",
+        "name": "Self defense",
+        "description": "A gym session or brisk walk can help. Physical activity stimulates many brain chemicals that may leave you feeling happier, more relaxed and less anxious. You also may feel better about your appearance and yourself when you exercise regularly, which can boost your confidence and improve your self-esteem.",
+        "information": [
+            "Having slimmer shapely thighs",
+            "Getting stronger body",
+            "Increased metabolism",
+            "Increased muscular endurance",
+            "Maximum results in less time",
+            "Firm hips and tummy"
+        ],
+        "classSchedule": [
+            {
+                "day": "Saturday",
+                "time": "7:00 pm - 8:00 pm"
+            },
+            {
+                "day": "Sunday",
+                "time": "6:00 pm - 7:00 pm"
+            },
+            {
+                "day": "Monday",
+                "time": "8:00 am - 9:00 am"
+            },
+            {
+                "day": "Tuesday",
+                "time": "9:00 am - 10:00 am"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:00 am - 8:00 am"
+            },
+            {
+                "day": "Thursday",
+                "time": "5:00 pm - 6:00 pm"
+            }
+        ]
+    },
+    {
+        "_id": 2,
+        "image": "https://i.postimg.cc/DzPpMCH3/cardio-training.png",
+        "name": "Cardio training",
+        "description": "A gym session or brisk walk can help. Physical activity stimulates many brain chemicals that may leave you feeling happier, more relaxed and less anxious. You also may feel better about your appearance and yourself when you exercise regularly, which can boost your confidence and improve your self-esteem.",
+        "information": [
+            "Having slimmer shapely thighs",
+            "Getting stronger body",
+            "Increased metabolism",
+            "Increased muscular endurance",
+            "Maximum results in less time",
+            "Firm hips and tummy"
+        ],
+        "classSchedule": [
+            {
+                "day": "Saturday",
+                "time": "7:00 pm - 8:00 pm"
+            },
+            {
+                "day": "Sunday",
+                "time": "6:00 pm - 7:00 pm"
+            },
+            {
+                "day": "Monday",
+                "time": "8:00 am - 9:00 am"
+            },
+            {
+                "day": "Tuesday",
+                "time": "9:00 am - 10:00 am"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:00 am - 8:00 am"
+            },
+            {
+                "day": "Thursday",
+                "time": "5:00 pm - 6:00 pm"
+            }
+        ]
+    },
+    {
+        "_id": 3,
+        "image": "https://i.postimg.cc/LXsD0mjj/advance-gym.jpg",
+        "name": "Advance gym",
+        "description": "A gym session or brisk walk can help. Physical activity stimulates many brain chemicals that may leave you feeling happier, more relaxed and less anxious. You also may feel better about your appearance and yourself when you exercise regularly, which can boost your confidence and improve your self-esteem.",
+        "information": [
+            "Having slimmer shapely thighs",
+            "Getting stronger body",
+            "Increased metabolism",
+            "Increased muscular endurance",
+            "Maximum results in less time",
+            "Firm hips and tummy"
+        ],
+        "classSchedule": [
+            {
+                "day": "Saturday",
+                "time": "7:00 pm - 8:00 pm"
+            },
+            {
+                "day": "Sunday",
+                "time": "6:00 pm - 7:00 pm"
+            },
+            {
+                "day": "Monday",
+                "time": "8:00 am - 9:00 am"
+            },
+            {
+                "day": "Tuesday",
+                "time": "9:00 am - 10:00 am"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:00 am - 8:00 am"
+            },
+            {
+                "day": "Thursday",
+                "time": "5:00 pm - 6:00 pm"
+            }
+        ]
+    },
+    {
+        "_id": 4,
+        "image": "https://i.postimg.cc/HnWvQQk4/psycho-training.png",
+        "name": "Psycho training",
+        "description": "A gym session or brisk walk can help. Physical activity stimulates many brain chemicals that may leave you feeling happier, more relaxed and less anxious. You also may feel better about your appearance and yourself when you exercise regularly, which can boost your confidence and improve your self-esteem.",
+        "information": [
+            "Having slimmer shapely thighs",
+            "Getting stronger body",
+            "Increased metabolism",
+            "Increased muscular endurance",
+            "Maximum results in less time",
+            "Firm hips and tummy"
+        ],
+        "classSchedule": [
+            {
+                "day": "Saturday",
+                "time": "7:00 pm - 8:00 pm"
+            },
+            {
+                "day": "Sunday",
+                "time": "6:00 pm - 7:00 pm"
+            },
+            {
+                "day": "Monday",
+                "time": "8:00 am - 9:00 am"
+            },
+            {
+                "day": "Tuesday",
+                "time": "9:00 am - 10:00 am"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:00 am - 8:00 am"
+            },
+            {
+                "day": "Thursday",
+                "time": "5:00 pm - 6:00 pm"
+            }
+        ]
+    },
+    {
+        "_id": 5,
+        "image": "https://i.postimg.cc/hG926CJ1/strength-training.png",
+        "name": "Strength training",
+        "description": "A gym session or brisk walk can help. Physical activity stimulates many brain chemicals that may leave you feeling happier, more relaxed and less anxious. You also may feel better about your appearance and yourself when you exercise regularly, which can boost your confidence and improve your self-esteem.",
+        "information": [
+            "Having slimmer shapely thighs",
+            "Getting stronger body",
+            "Increased metabolism",
+            "Increased muscular endurance",
+            "Maximum results in less time",
+            "Firm hips and tummy"
+        ],
+        "classSchedule": [
+            {
+                "day": "Saturday",
+                "time": "7:00 pm - 8:00 pm"
+            },
+            {
+                "day": "Sunday",
+                "time": "6:00 pm - 7:00 pm"
+            },
+            {
+                "day": "Monday",
+                "time": "8:00 am - 9:00 am"
+            },
+            {
+                "day": "Tuesday",
+                "time": "9:00 am - 10:00 am"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:00 am - 8:00 am"
+            },
+            {
+                "day": "Thursday",
+                "time": "5:00 pm - 6:00 pm"
+            }
+        ]
+    },
+    {
+        "_id": 6,
+        "image": "https://i.postimg.cc/9XxJ6wfK/crunch-fitness.png",
+        "name": "Crunch Fitness",
+        "description": "A gym session or brisk walk can help. Physical activity stimulates many brain chemicals that may leave you feeling happier, more relaxed and less anxious. You also may feel better about your appearance and yourself when you exercise regularly, which can boost your confidence and improve your self-esteem.",
+        "information": [
+            "Having slimmer shapely thighs",
+            "Getting stronger body",
+            "Increased metabolism",
+            "Increased muscular endurance",
+            "Maximum results in less time",
+            "Firm hips and tummy"
+        ],
+        "classSchedule": [
+            {
+                "day": "Saturday",
+                "time": "7:00 pm - 8:00 pm"
+            },
+            {
+                "day": "Sunday",
+                "time": "6:00 pm - 7:00 pm"
+            },
+            {
+                "day": "Monday",
+                "time": "8:00 am - 9:00 am"
+            },
+            {
+                "day": "Tuesday",
+                "time": "9:00 am - 10:00 am"
+            },
+            {
+                "day": "Wednesday",
+                "time": "7:00 am - 8:00 am"
+            },
+            {
+                "day": "Thursday",
+                "time": "5:00 pm - 6:00 pm"
+            }
+        ]
+    }
+]
